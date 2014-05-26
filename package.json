@@ -1,0 +1,33 @@
+{
+	"name": "node-express",
+	"description": "1ra app node con express",
+	"version": "0.0.2",
+	"author": "Víctor San Martín <hola@victorsanmartin.com>",
+	"private": true,
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/quest/node-express.git"
+	},
+
+	"engines": {
+		"node": "0.10.x",
+		"npm": "1.3.x"
+	},
+
+	"scripts" : {
+		"start": "nodemon app.js",
+		"postinstall": "node node_modules/bower/bin/bower install"
+	},
+
+	"dependencies": {
+		"express": "4.3.1",
+		"jade": "1.3.1",
+		"body-parser": "1.2.0",
+		"bower": "1.3.3"
+	},
+
+	"devDependencies": {
+		"nodemon": "*"
+	}
+}
