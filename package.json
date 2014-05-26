@@ -1,7 +1,7 @@
 {
 	"name": "node-express",
 	"description": "1ra app node con express",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": "Víctor San Martín <hola@victorsanmartin.com>",
 	"private": true,
 
