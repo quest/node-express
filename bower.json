@@ -1,0 +1,22 @@
+{
+  "name": "node-express",
+  "version": "0.0.1",
+  "authors": [
+    "Víctor San Martín <vsanmartinm@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": ">=3.1.1"
+  }
+}
