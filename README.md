@@ -2,8 +2,8 @@
 [![devDependency Status](https://david-dm.org/quest/node-express/dev-status.svg)](https://david-dm.org/quest/node-express#info=devDependencies)
 
 # Install
-npm install
-npm start
+- npm install
+- npm start
 
 ## Dependencies
 - node 0.10.x
