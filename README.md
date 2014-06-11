@@ -1,4 +1,5 @@
 [![Dependency Status](https://david-dm.org/quest/node-express.svg)](https://david-dm.org/quest/node-express)
+[![devDependency Status](https://david-dm.org/quest/node-express/dev-status.svg)](https://david-dm.org/quest/node-express#info=devDependencies)
 
 # Install
 npm install
